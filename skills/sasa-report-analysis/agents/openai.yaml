@@ -1,0 +1,5 @@
+interface:
+  display_name: "专业报告内容与证据架构"
+  short_description: "将多份资料组织成有研究问题、机制分析、清晰结论、来源引用与附录的专业报告"
+  default_prompt: "使用 $sasa-report-analysis，根据我的材料生成研究问题、分级目录和证据台账，再完成逻辑清晰的分析报告。"
+

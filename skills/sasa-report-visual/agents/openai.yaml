@@ -1,0 +1,5 @@
+interface:
+  display_name: "专业报告视觉与图示"
+  short_description: "统一行业与案例报告版式，制作封面、研究路线、模型图和数据图表，并检查可读性"
+  default_prompt: "使用 $sasa-report-visual，将我的材料制作成配色统一、图表专业、结构紧凑的报告，保留可编辑源文件。"
+
