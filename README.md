@@ -6,6 +6,8 @@
 
 | 系列 | Skill | 用途 |
 |---|---|---|
+| 用户研究 | [用户需求验证与访谈](skills/sasa-user-research/SKILL.md) | 访谈提纲、真实证据记录和需求验证 |
+| 图表工具 | [竞赛图表工坊](skills/sasa-competition-figures/SKILL.md) | 根据真实数据制作报告和竞赛图表 |
 | 商业方案 | [商业想法与商赛工作流](skills/sasa-business-workflow/SKILL.md) | 行业洞察、需求验证、财务风险和商业计划书整合 |
 | 产品设计 | [PRD 生成器](skills/sasa-prd-generator/SKILL.md) | 七模块需求文档、业务流程和产品结构 |
 | 行动规划 | [想法变行动 SOP](skills/sasa-idea-to-sop/SKILL.md) | 将零散想法拆成可执行步骤 |
@@ -15,6 +17,8 @@
 [查看行业报告组合使用说明](skills/行业报告组合说明.md)。建议先做好内容和证据，再设计视觉。
 
 [查看商业方案与 PRD 使用说明](skills/商业方案与PRD使用说明.md)。
+
+[查看用户调研与竞赛图表使用说明](skills/用户调研与竞赛图表使用说明.md)。
 
 ## 使用方法
 
