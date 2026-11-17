@@ -12,6 +12,8 @@
 | PPT 优化 | [路演 PPT 诊断](skills/sasa-ppt-review/SKILL.md) | 检查叙事、证据和页面可读性 |
 | 商业方案 | [商业想法与商赛工作流](skills/sasa-business-workflow/SKILL.md) | 行业洞察、需求验证、财务风险和商业计划书整合 |
 | 产品设计 | [PRD 生成器](skills/sasa-prd-generator/SKILL.md) | 七模块需求文档、业务流程和产品结构 |
+| 课程学习 | [课程复盘文档](skills/sasa-lecture-recap/SKILL.md) | 整理课程主线、观点与案例 |
+| 学习行动 | [听课内化与行动](skills/sasa-learning-action/SKILL.md) | 将学习收获转为可执行行动 |
 | 行动规划 | [想法变行动 SOP](skills/sasa-idea-to-sop/SKILL.md) | 将零散想法拆成可执行步骤 |
 | 行业报告 | [报告内容与证据架构](skills/sasa-report-analysis/SKILL.md) | 梳理研究问题、证据、章节与论证 |
 | 行业报告 | [报告视觉系统](skills/sasa-report-visual/SKILL.md) | 设计版式、图表和可编辑图示 |
@@ -23,6 +25,8 @@
 [查看用户调研与竞赛图表使用说明](skills/用户调研与竞赛图表使用说明.md)。
 
 [查看从方案到路演 PPT 使用说明](skills/从方案到路演PPT使用说明.md)。
+
+[查看课程学习与内化使用说明](skills/课程学习与内化使用说明.md)。
 
 ## 使用方法
 
