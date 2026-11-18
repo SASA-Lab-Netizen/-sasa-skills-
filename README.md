@@ -14,6 +14,8 @@
 | 产品设计 | [PRD 生成器](skills/sasa-prd-generator/SKILL.md) | 七模块需求文档、业务流程和产品结构 |
 | 课程学习 | [课程复盘文档](skills/sasa-lecture-recap/SKILL.md) | 整理课程主线、观点与案例 |
 | 学习行动 | [听课内化与行动](skills/sasa-learning-action/SKILL.md) | 将学习收获转为可执行行动 |
+| 提示词整理 | [提示词整合](skills/sasa-prompt-organizer/SKILL.md) | 整合草稿、经验和冲突 |
+| 项目搭建 | [应用搭建提示词链](skills/sasa-build-prompt-chain/SKILL.md) | 明确需求、数据边界与验收 |
 | 行动规划 | [想法变行动 SOP](skills/sasa-idea-to-sop/SKILL.md) | 将零散想法拆成可执行步骤 |
 | 行业报告 | [报告内容与证据架构](skills/sasa-report-analysis/SKILL.md) | 梳理研究问题、证据、章节与论证 |
 | 行业报告 | [报告视觉系统](skills/sasa-report-visual/SKILL.md) | 设计版式、图表和可编辑图示 |
@@ -27,6 +29,8 @@
 [查看从方案到路演 PPT 使用说明](skills/从方案到路演PPT使用说明.md)。
 
 [查看课程学习与内化使用说明](skills/课程学习与内化使用说明.md)。
+
+[查看提示词与项目搭建使用说明](skills/提示词与项目搭建使用说明.md)。
 
 ## 使用方法
 
